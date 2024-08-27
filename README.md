@@ -1,1 +1,1 @@
-# Curr-culo-Responsivo
+# Currículo-Responsivo
